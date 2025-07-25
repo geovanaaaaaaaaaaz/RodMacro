@@ -3,11 +3,9 @@
     src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Fishing_Rod_JE2_BE2.png/revision/latest?cb=20200201063839"
 />
 
-# Weave Loader, the Universal Minecraft Mod Loader
+# Rod Scroll, Macro Mod
 
-Weave Loader is a tool designed to simplify the process of modding Minecraft. It allows
-developers to easily create mods by providing a simple and intuitive API for interacting with Minecraft's codebase,
-while supporting injection into clients that are somewhat closed-off to developers.
+When you right-click, the mod quickly scrolls to a random hotbar slot  waits 3 ticks, and then automatically switches back to your fishing rod 
 
 ## Supported Clients / Versions
 
