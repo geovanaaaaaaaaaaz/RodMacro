@@ -26,14 +26,7 @@ When you right-click, the mod quickly scrolls to a random hotbar slot  waits 3 t
     
 | Version |     Supported      |
 |---------|:------------------:|
-| 1.7     | :white_check_mark: |
 | 1.8     | :white_check_mark: |
-| 1.12    | :white_check_mark: |
-| 1.16    | :white_check_mark: |
-| 1.17    | :white_check_mark: |
-| 1.18    | :white_check_mark: |
-| 1.19    | :white_check_mark: |
-| 1.20    | :white_check_mark: |
 
 </td></tr>
 </table>
