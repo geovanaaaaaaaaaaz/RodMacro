@@ -1,6 +1,6 @@
 <img
     align="right" alt="title" width="200px"
-    src="https://avatars.githubusercontent.com/u/126124815?s=400&u=c274f4ff6a9ff62698476de6bf66cacf1d6bed8e"
+    src="[https://avatars.githubusercontent.com/u/126124815?s=400&u=c274f4ff6a9ff62698476de6bf66cacf1d6bed8e](https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Fishing_Rod_JE2_BE2.png/revision/latest/thumbnail/width/360/height/360?cb=20200201063839)"
 />
 
 # Weave Loader, the Universal Minecraft Mod Loader
